@@ -587,7 +587,7 @@ About Page
   padding-bottom: 3rem;
 }
 .about-img {
-  border-radius: var(--borderRadius);
+  border-radius: 20px;
   height: 300px;
 }
 
